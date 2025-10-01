@@ -132,7 +132,7 @@ Receive real-time voice feedback and alerts.
 
 WHO World Report on Vision: https://www.who.int/publications/i/item/world-report-on-vision
 
-YOLOv5 Object Detection: https://github.com/ultralytics/yolov5
+YOLOv8 Object Detection: https://github.com/autogyro/yolo-V8
 
 BLIP Vision-Language Model: https://github.com/salesforce/BLIP
 
