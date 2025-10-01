@@ -20,7 +20,7 @@ def speak(text, lang='hi'):
     pyglet.app.run()
 
 # Gemini API Key
-client = genai.Client(api_key="AIzaSyBpPYTDS-fnZOqRYukaZACSAXsxes5Ry4Y")
+client = genai.Client(api_key="Your_API_KEY")
 
 # Speech recognizer
 recognizer = sr.Recognizer()
@@ -79,3 +79,4 @@ while True:
     except Exception as e:
         print(f"❌ जेमिनी त्रुटि: {e}")
         speak("कोई त्रुटि हुई।")
+
