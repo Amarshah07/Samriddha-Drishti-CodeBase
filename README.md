@@ -175,5 +175,4 @@ Miniaturize hardware for better ergonomics
 
 📜 License
 
-This project is licensed under the MIT License. See the LICENSE
- file for details.
+See the LICENSE file for details.
