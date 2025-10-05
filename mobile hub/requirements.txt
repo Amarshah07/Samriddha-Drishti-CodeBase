@@ -1,0 +1,5 @@
+pybluez
+pyttsx3 
+speechrecognition 
+opencv-python 
+flask
