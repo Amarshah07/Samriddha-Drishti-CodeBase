@@ -8,7 +8,7 @@ Samriddha Drishti is an assistive AI system designed to enhance mobility and sit
 
 ## Checkout Full Demo Video
 
-[![Watch the Demo](https://i.ibb.co/xt0ZkSVz/Untitled-design-1.png)](https://www.youtube.com/watch?v=Ql-nWCRNzLc)
+[![Watch the Samriddha Drishti Demo](https://i.ibb.co/xt0ZkSVz/Untitled-design-1.png)](https://www.youtube.com/watch?v=Ql-nWCRNzLc)
 
 
 📌 Project Overview
