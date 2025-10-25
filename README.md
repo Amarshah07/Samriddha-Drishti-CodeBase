@@ -8,6 +8,9 @@ Samriddha Drishti is an assistive AI system designed to enhance mobility and sit
 
 ## Checkout Full Demo video on Youtube https://youtu.be/Ql-nWCRNzLc?si=o-2zA3lcsV0KToF0
 
+[![Watch the Demo](https://i.ibb.co/Vcw3DyN4/Untitled-1.webp)](https://www.youtube.com/watch?v=Ql-nWCRNzLc)
+
+
 📌 Project Overview
 
 This project implements a voice-interactive AI vision system using Google Gemini Vision AI, object detection (YOLOv5), scene description (BLIP), and real-time speech recognition. The system captures live visuals, processes them with AI, and delivers voice-based descriptions and alerts to the user.
