@@ -6,9 +6,9 @@ AI Glasses + Smart Assistive Ecosystem
 
 Samriddha Drishti is an assistive AI system designed to enhance mobility and situational awareness for visually impaired individuals. It combines wearable AI vision, smart blind stick sensors, voice interaction, and navigation assistance into one integrated system.
 
-## Full Demo Video
+## Checkout Full Demo Video
 
-[![Watch the Demo](https://i.ibb.co/Vcw3DyN4/Untitled-1.webp)](https://www.youtube.com/watch?v=Ql-nWCRNzLc)
+[![Watch the Demo](https://i.ibb.co/xt0ZkSVz/Untitled-design-1.png)](https://www.youtube.com/watch?v=Ql-nWCRNzLc)
 
 
 📌 Project Overview
