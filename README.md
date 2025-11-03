@@ -17,7 +17,7 @@ This project implements a voice-interactive AI vision system using Google Gemini
 
 The software also includes a GUI mode selector for managing multiple assistive modes, such as object detection, face recognition, QR scanning, navigation, and reading.
 
-⚙️ Features
+## ⚙️ Features
 
 Head & Ground Obstacle Detection (via glasses camera + ultrasonic stick sensors)
 
